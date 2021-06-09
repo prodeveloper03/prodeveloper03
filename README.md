@@ -51,8 +51,11 @@
 
 ## MY STATS
 
-<a href="https://github.com/">
+<a href="https://github.com/prodeveloper03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodeveloper03&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/prodeveloper03">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prodeveloper03&show_icons=true&theme=light&line_height=27" alt="Prodeveloper's github stats"/>
 </a>
 
 
